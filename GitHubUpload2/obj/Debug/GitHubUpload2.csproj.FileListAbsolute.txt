@@ -1,0 +1,7 @@
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\bin\Debug\GitHubUpload2.exe.config
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\bin\Debug\GitHubUpload2.exe
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\bin\Debug\GitHubUpload2.pdb
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\obj\Debug\GitHubUpload2.csproj.AssemblyReference.cache
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\obj\Debug\GitHubUpload2.csproj.CoreCompileInputs.cache
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\obj\Debug\GitHubUpload2.exe
+C:\Users\fnupra01\source\repos\GitHubUpload2\GitHubUpload2\obj\Debug\GitHubUpload2.pdb
